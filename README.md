@@ -9,5 +9,9 @@ Additionally, it provides users with a Graphical User Interface (GUI) to select 
 - User-Friendly GUI: The system offers a user-friendly GUI built with Java Swing, allowing users to easily navigate and interact with the shopping functionalities.
 - Cart Functionality: Users can select and add products to their cart seamlessly using the GUI, enhancing the shopping experience
 
+
+## Implementation Details
+- Object-Oriented Programming (OOP): The system is designed using key OOP concepts such as encapsulation, inheritance, abstraction, and polymorphism, resulting in a robust and maintainable codebase.
+
 ## Contributing:
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request
